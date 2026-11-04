@@ -44,6 +44,8 @@
 
 <img src="assets/stats.svg" width="400" alt="GitHub stats"/> <img src="assets/languages.svg" width="400" alt="Top languages"/>
 
+<img src="assets/streak.svg" width="804" alt="Contribution streak"/>
+
 ## Contact:
 
 [LinkedIn](https://www.linkedin.com/in/arian-mohseni-348a6b24b) · [Email](mailto:arianmohseni1382@gmail.com) · [Stack Overflow](https://stackoverflow.com/users/20221248/arianmohseni) · [Instagram](https://www.instagram.com/arian_mhb)
