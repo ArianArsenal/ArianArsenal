@@ -3,8 +3,7 @@
 ## Currently:
 
 - 🎓 Computer Engineering BSc student at Amirkabir University of Technology
-- 🧠 Working on machine learning with TensorFlow and scikit-learn
-- 📱 Building Android apps with Kotlin and Jetpack Compose
+- 💻 Working on AI4SE and AI projects
 - 💼 Open to full-time roles, research collaborations and graduate opportunities
 
 ## Tech Stack:
